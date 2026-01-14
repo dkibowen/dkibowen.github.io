@@ -60,14 +60,14 @@ plugins:
 author:
   name   : "Douglas K Kibowen"
   avatar : "/assets/images/douglaso.jpg"
-  bio    : "I am an experienced Analytics and Data Professional with proven ability to collaborate across departments and implement strategies that enhance processes efficiency "
+  bio    : "Supply Chain Analytics and Reporting Lead at Mabati Rolling Mills a member of Safal Group."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/dkibowen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
