@@ -14,7 +14,7 @@ description              : &description "Statistician, Currently Analytics and R
 url                      : https://dkibowen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/dkibowen/dkibowen.github.io"
-teaser                   : "alison_1.2crop.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alison L Gibbs"
-  avatar           : "alison_1.2crop.jpg"
-  bio              : "Director, Centre for Teaching Support and Innovation and Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto"
-  location         : "Toronto, ON"
+  name             : "Douglas K Kibowen"
+  avatar           : "Profile.jpg"
+  bio              : "Statisticial, Currently as Analytics and Reporting Lead at Supply Chain Department, Mabati Rolling Mills - A member of the Safal Group"
+  location         : "Nairobi, KE"
   employer         : 
-  googlescholar    : https://scholar.google.ca/citations?user=L8bdkCkAAAAJ&hl=en
+  # googlescholar    : #https://scholar.google.ca/citations?user=L8bdkCkAAAAJ&hl=en
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alisongibbs"
+  github           : "dkibowen"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "alison-gibbs-0a1055194"
+  linkedin         : "douglas-kibowen-2a54a8151"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AlisonLGibbs"
+  twitter          : "dkibowen"
   vine             :
   weibo            :
   xing             :
