@@ -14,7 +14,7 @@ description              : &description "Analytics and Reporting Lead for Supply
 url                      : https://dkibowen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/dkibowen/dkibowen.github.io"
-teaser                   : "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "images/profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Douglas K Kibowen"
   avatar           : "images/profile.jpg"
-  bio              : "Statisticial, Currently as Analytics and Reporting Lead at Supply Chain Department, Mabati Rolling Mills - A member of the Safal Group"
+  bio              : "Analytics and Reporting Lead at Supply Chain Department, Mabati Rolling Mills - A member of the Safal Group"
   location         : "Nairobi, KE"
   employer         : 
   # googlescholar    : #https://scholar.google.ca/citations?user=L8bdkCkAAAAJ&hl=en
