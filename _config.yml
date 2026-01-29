@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alison L Gibbs"
+title                    : "Douglas K Kibowen"
 title_separator          : "-"
-name                     : &name "Alison L Gibbs"
-description              : &description "Director, Centre for Teaching Support and Innovation and Professor, Teaching Stream"
-url                      : https://alisongibbs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Douglas K Kibowen"
+description              : &description "Statistician, Currently Analytics and Reporting Lead at Mabati Rolling Mills - Member of Safal Group, Supply Chain"
+url                      : https://dkibowen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/alisongibbs/alisongibbs.github.io"
+repository               : "https://github.com/dkibowen/dkibowen.github.io"
 teaser                   : "alison_1.2crop.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
