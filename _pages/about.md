@@ -10,10 +10,12 @@ author_profile: yes
 
 I am a Statistician, currently working as Analytics and Reporting Lead [Supply Chain Department](https://mabati.com/) at [Mabati Rolling Mills](https://mabati.com/) a member of the [Safal Group](https://www.safalgroup.com/).
 
-I am interested in the teaching and learning of Statistics and Data Science at all levels, from primary through graduate school.  I am engaged in various projects related to data science in schools, online learning, inverted classrooms, statistics curriculum development, achieving adaptive expertise, and the development of professional identity. 
+I am interested in the applications of Statistics and Data Science in solving problems in organizations and communities.  I am and have been a key team member in delivering projects which have had significant impact on organizations' processes: delivering efficiency and  adding value. I love data and computers!
 
-### Some Recent Projects:
+### Some Key Projects Delivered:
 
-- [International Data Science in Schools Project](http://www.idssp.org)
-- [Census at School Canada](http://censusatschool.ca)
-- [Introduction to Statistical Ideas and Methods](http://stats.onlinelearning.utoronto.ca)
+- [SKU rationalization at Bio Food Products Limited](http://www.idssp.org)
+- [Inventory Replenishment Policy: Improving Product Availability at One Acre Fund](http://censusatschool.ca)
+- [Factory Data Management System: Development and Deployment at Mars Wrigley](http://stats.onlinelearning.utoronto.ca)
+- [Autonomous Maintenance Implementation at Mars Wrigley](http://www.idssp.org)
+- [Driving Performance by Measuring and Visualizing KPIs at Mabati Rolling Mills](http://www.idssp.org)
