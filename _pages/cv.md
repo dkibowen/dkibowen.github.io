@@ -11,22 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.Math. in Applied Mathematics, University of Waterloo, 1988
-* B.Ed. University of Western Ontario, 1989
-* M.Sc. in Statistics, University of Toronto, 1993
-* Ph.D. in  Statistics, University of Toronto, 2000
+* B.Sc. in Applied Statistics, Maseno University, 2010
+* B.Sc. in Computer Science, University of the People, 2022
+* M.Sc. in Finance Engineering, WorldQuant University, 2027
 
 Employment
 ======
 
-* 2020-present: Director, Centre for Teaching Support and Innovation, University of Toronto  
-* 2018-present: Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto
-* 2015-18: Associate Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto
-* 2014-19: Associate Chair, Undergraduate Studies in Statistics, Department of Statistical Sciences, University of Toronto
-* 2006-15: Senior Lecturer, Department of Statistical Sciences, University of Toronto
-* 2002-06: Lecturer, Department of Statistical Sciences, University of Toronto
-* 2001-02: Assistant Professor, Department of Mathematics and Statistics, York University
-* 2000-01: Postdoctoral Fellow, Department of Mathematics and Statistics, York University
+* 2025-present: Analytics and Reporting Lead, Supply Chain, Mabati Rolling Mills
+* 2023-2025: Supply Planning Lead, One Acre Fund
+* 2022-2023: Demand Planner, Bio Food Products Limited
+* 2020-2022: Shift Manager, Bio Food Products Limited
+* 2018-2019: Demand Planning Manager, Mars Wrigley
+* 2014-2018: Production Statistician, Mars Wrigley
+* 2011-2013: Data Analyst/Research Assistant, School-To-School International
 
 
 [Awards](/awards)
