@@ -8,27 +8,15 @@ redirect_from:
 ---
 
 
-## Centre for Teaching Support and Innovation:
+## Mabati Rolling Mills Ltd - Off Mombasa Road:
 
 
-**For inquiries about the Centre for Teaching Support and Innovation:**   
-ctsi.teaching AT utoronto.ca
+**For inquiries on Statistics and Data Science Applications in Supply Chain:**   
+Email: douglas.kibowen@safalgroup.com
+Phone Number: +254 725663783
 
-[Centre for Teaching Support and Innovation](https://teaching.utoronto.ca)    
-[University of Toronto](https://www.utoronto.ca)    
-130 St George St  
-Robarts Library, 4th Floor  
-Toronto, ON  M5S 3H1  
+[Mabati Rolling Mills](https://mabati.com/)    
+[Safal Group](https://www.safalgroup.com/)    
 
-## Department of Statistical Sciences:
 
-**For inquiries about statistics courses and programs of study:**   
-ug.statistics AT utstat.utoronto.ca
-
-[Department of Statistical Sciences](https://www.statistics.utoronto.ca)    
-[University of Toronto](https://www.utoronto.ca)    
-700 University Avenue, Suite 9005  
-Ontario Power Building  
-Toronto, ON  M5G 1X6  
-
-**Direct inquiries:** alison.gibbs AT utoronto.ca
+**Direct inquiries:** dowenkim@gmail.com
