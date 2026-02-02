@@ -16,6 +16,4 @@ I am interested in the applications of Statistics and Data Science in solving pr
 
 - [SKU rationalization at Bio Food Products Limited](http://www.idssp.org)
 - [Inventory Replenishment Policy: Improving Product Availability at One Acre Fund](http://censusatschool.ca)
-- [Factory Data Management System: Development and Deployment at Mars Wrigley](http://stats.onlinelearning.utoronto.ca)
-- [Autonomous Maintenance Implementation at Mars Wrigley](http://www.idssp.org)
 - [Driving Performance by Measuring and Visualizing KPIs at Mabati Rolling Mills](http://www.idssp.org)
