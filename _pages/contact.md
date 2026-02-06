@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Reach Out"
-permalink: /contact/
+title: "Contact"
+permalink: /Reach Out/
 author_profile: true
 redirect_from:
   - /resume
