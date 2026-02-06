@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "Experience"
+permalink: /experience/
 redirect_from: /resume
 author_profile: yes
 ---
