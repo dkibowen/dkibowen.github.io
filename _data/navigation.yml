@@ -9,12 +9,10 @@ main:
   - title: "Reports & Dashboard"
     url: /publications/
 
-  - title: "Services"
+  - title: "Projects & Services"
     url: /talks/    
     
   - title: "CV"
     url: /cv/
     
-  - title: "Contact"
-    url: /contact/
     
